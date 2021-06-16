@@ -17,15 +17,6 @@ react实现源码在src/react，主要是方便学习，不建议用于生产。
 yarn start
 ```
 
-## 学习路线
-
-对于react源码的学习路线提供一些参考：
-1. 首先推荐看这个视频：[React源码，你在第几层](https://www.bilibili.com/video/BV1Ki4y1u7Vr)，了解自己真实需求以及大致学习路线。
-2. 推荐看pomb的这篇文章：[build-your-own-react](https://pomb.us/build-your-own-react/)，中文篇：[【译】build your own react](https://juejin.cn/post/6884968140892176397)。一步步教你实现一个简单的react，这个项目几乎就来自这篇文章的学习。
-3. 推荐[React技术揭秘](https://react.iamkasong.com/)，React从理念到细节，非常全面。
-4. 还有兴趣的话，按模块去阅读源码，例如Scheduler是相对独立的。
-
-
 ## 简易React运行流程
 
 1. JSX语法解析完全看createElement()，可以被其他模块的类似方法替代；
