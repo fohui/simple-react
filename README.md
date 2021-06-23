@@ -1,7 +1,6 @@
 # simple-react
 
-react实现源码在src/react，主要是方便学习，不建议用于生产。
-
+react实现源码在src/react，主要是方便学习
 实现了React 16.0的主要特性
 - 基于requestIdleCallback的任务调度
 - 基于fiber的工作单元划分
@@ -9,6 +8,9 @@ react实现源码在src/react，主要是方便学习，不建议用于生产。
 - 支持Function Component
 - 支持useState
 
+来自以下文章的学习，感谢：
+[build-your-own-react](https://pomb.us/build-your-own-react/)：pomb关于react的简单实现，文章通俗易懂！
+[【译】build your own react](https://juejin.cn/post/6884968140892176397)：中文翻译
 
 ## 项目启动
 
